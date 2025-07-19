@@ -1,1 +1,1 @@
-Hello, I'm Barnaby and I like to make software. Currently, I'm building [director](https://github.com/director-run/director), a super easy to use MCP gateway
+Hello, I'm Barnaby and I like to make software. Currently, I'm building [director](https://github.com/director-run/director), a super easy to use MCP gateway. Also feel free to follow me on twitter [@barnabymalet](https://twitter.com/barnabymalet).
